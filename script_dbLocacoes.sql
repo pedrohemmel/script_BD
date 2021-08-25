@@ -46,7 +46,7 @@ VALOR DECIMAL(10,2)
 );
 
 -- Visualizar as tabelas criadas
-show tables;
+show tables; 
 
 -- Visualizar as ESTRUTURAS das tabelas
 desc tbTitulos;
